@@ -1,11 +1,13 @@
 <?php
 
 /**
-* Open Source MIT License
-* V 1.0.0
-* Author Shreejibawa
-* Git Hub http://github.com/shreejibawa
-*/
+ * Licensed under The MIT License
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @author Shreejibawa <shah.shreeji248@gmail.com>
+ * @version 1.0
+ * @package PHPSubtitleParser
+ */
 class PHPSubtitleParser
 {
 
